@@ -1,0 +1,7 @@
+{
+  "name": "fake-insta-app-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
